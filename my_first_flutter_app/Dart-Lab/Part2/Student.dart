@@ -3,6 +3,6 @@ class Student {
   String name;
   int age;
 
-  // Constructor
+  // Constructor to initialize the student object
   Student(this.name, this.age);
 }
