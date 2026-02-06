@@ -1,4 +1,4 @@
-# my_first_flutter_app
+# dart-shcool-lab project
 
 A new Flutter project.
 
