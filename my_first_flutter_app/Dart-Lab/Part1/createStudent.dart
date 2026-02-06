@@ -8,5 +8,5 @@ void createStudent({required String name, required int age}) {
 }
 //Display the student information by calling the function with named parameters
 void main() {
-  createStudent(name: "Patrick", age: 24);
+  createStudent(name: "Patrick", age: 26);
 }
