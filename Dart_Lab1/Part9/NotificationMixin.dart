@@ -11,8 +11,8 @@ class Student with NotificationMixin {
 
   Student(this.id, this.name);
 }
-
+//Example usage of the Student class with NotificationMixin to notify about course registration
 void main() {
-  Student student = Student(1, "Patrick");
-  student.notifyRegistration("Mobile App Development");
+  Student student1 = Student(1, "Patrick");
+  student1.notifyRegistration("Mobile App Development");
 }
